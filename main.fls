@@ -304,13 +304,6 @@ INPUT .\main.out
 INPUT .\main.out
 OUTPUT main.out
 OUTPUT main.pdf
-INPUT .\untitled.jpg
-INPUT .\untitled.jpg
-INPUT .\untitled.jpg
-INPUT .\untitled.jpg
-INPUT .\untitled.jpg
-INPUT .\untitled.jpg
-INPUT .\untitled.jpg
 INPUT D:\MiKTeX\fonts\tfm\impallari\raleway\Raleway-Bold-lf-t1.tfm
 INPUT D:\MiKTeX\fonts\tfm\impallari\raleway\Raleway-Bold-lf-t1.tfm
 INPUT D:\MiKTeX\tex\latex\fontawesome\ufontawesometwo.fd

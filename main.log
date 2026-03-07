@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.7)  7 MAR 2026 22:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.7)  8 MAR 2026 03:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -750,230 +750,225 @@ Package hyperref Info: Link coloring OFF on input line 364.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<untitled.jpg, id=6, 117.0774pt x 145.2627pt>
-File: untitled.jpg Graphic file (type jpg)
-<use untitled.jpg>
-Package pdftex.def Info: untitled.jpg  used on input line 374.
-(pdftex.def)             Requested size: 160.76547pt x 199.49188pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 379.
+(Font)              <7> on input line 381.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 379.
+(Font)              <5> on input line 381.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/bold/n' aliased to
-(Font)              `T1/Raleway-LF/b/n' on input line 379.
+(Font)              `T1/Raleway-LF/b/n' on input line 381.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 379.
+(Font)              scaled to size 10.0pt on input line 381.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/bold/n' aliased to
-(Font)              `T1/Raleway-LF/b/n' on input line 379.
+(Font)              `T1/Raleway-LF/b/n' on input line 381.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 379.
+(Font)              scaled to size 17.28pt on input line 381.
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 379--379
+Overfull \hbox (8.784pt too wide) in alignment at lines 381--381
 [] 
  []
 
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 381.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 383.
 (D:\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/regular/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 381.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 383.
 
 LaTeX Font Info:    Font shape `T1/Raleway-LF/regular/n' aliased to
-(Font)              `T1/Raleway-LF/m/n' on input line 384.
+(Font)              `T1/Raleway-LF/m/n' on input line 386.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 384.
+(Font)              scaled to size 9.0pt on input line 386.
 
-Overfull \hbox (0.42244pt too wide) in paragraph at lines 381--386
+Overfull \hbox (0.42244pt too wide) in paragraph at lines 383--388
 []$[]$   $[]$ 
  []
 
 
-Overfull \hbox (0.42244pt too wide) in paragraph at lines 381--386
+Overfull \hbox (0.42244pt too wide) in paragraph at lines 383--388
 []$   $[]$ 
  []
 
 
-Overfull \hbox (0.42244pt too wide) in paragraph at lines 381--386
+Overfull \hbox (0.42244pt too wide) in paragraph at lines 383--388
 []$   $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--386
+Underfull \hbox (badness 10000) in paragraph at lines 383--388
 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 391--391
+Overfull \hbox (8.784pt too wide) in alignment at lines 393--393
 [] 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 399--399
+Overfull \hbox (8.784pt too wide) in alignment at lines 401--401
 [] 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 406--406
+Overfull \hbox (8.784pt too wide) in alignment at lines 408--408
 [] 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 413--413
+Overfull \hbox (8.784pt too wide) in alignment at lines 415--415
 [] 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 413--413
+Overfull \hbox (8.784pt too wide) in alignment at lines 415--415
 [] 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 413--413
+Overfull \hbox (8.784pt too wide) in alignment at lines 415--415
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--413
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 413--413
+Overfull \hbox (8.784pt too wide) in alignment at lines 415--415
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 420--420
+Overfull \hbox (8.784pt too wide) in alignment at lines 422--422
 [] 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 425--425
+Overfull \hbox (8.784pt too wide) in alignment at lines 427--427
 [] 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 425--425
+Overfull \hbox (8.784pt too wide) in alignment at lines 427--427
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 431--431
+Overfull \hbox (8.784pt too wide) in alignment at lines 433--433
 [] 
  []
 
 
-Overfull \hbox (8.784pt too wide) in alignment at lines 431--431
+Overfull \hbox (8.784pt too wide) in alignment at lines 433--433
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-LF/regular/n' aliased to
-(Font)              `T1/Raleway-LF/m/n' on input line 444.
+(Font)              `T1/Raleway-LF/m/n' on input line 446.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/m/n' will be
-(Font)              scaled to size 24.0pt on input line 444.
+(Font)              scaled to size 24.0pt on input line 446.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/bold/n' aliased to
-(Font)              `T1/Raleway-LF/b/n' on input line 444.
+(Font)              `T1/Raleway-LF/b/n' on input line 446.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/b/n' will be
-(Font)              scaled to size 24.0pt on input line 444.
+(Font)              scaled to size 24.0pt on input line 446.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/regular/n' aliased to
-(Font)              `T1/Raleway-LF/m/n' on input line 444.
+(Font)              `T1/Raleway-LF/m/n' on input line 446.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 444.
+(Font)              scaled to size 12.5pt on input line 446.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/bold/n' aliased to
-(Font)              `T1/Raleway-LF/b/n' on input line 444.
+(Font)              `T1/Raleway-LF/b/n' on input line 446.
 LaTeX Font Info:    Font shape `T1/Raleway-LF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 444.
+(Font)              scaled to size 12.5pt on input line 446.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 444--446
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 446--448
 [][] [][] 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 451--451
+Overfull \hbox (4.84172pt too wide) in alignment at lines 452--452
 [] 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 457--457
+Overfull \hbox (4.84172pt too wide) in alignment at lines 455--455
 [] 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 462--462
+Overfull \hbox (4.84172pt too wide) in alignment at lines 460--460
 [] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 492--492
+Overfull \hbox (6.0pt too wide) in paragraph at lines 489--489
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--492
+Underfull \hbox (badness 10000) in paragraph at lines 489--489
 
  []
 
 
-Overfull \hbox (4.96175pt too wide) in alignment at lines 492--492
+Overfull \hbox (4.96175pt too wide) in alignment at lines 489--489
 [] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+Raleway-LF on input line 492.
+LaTeX Font Info:    Trying to load font information for TS1+Raleway-LF on input line 489.
 (D:\MiKTeX\tex/latex/raleway\ts1raleway-lf.fd
 File: TS1Raleway-LF.fd 2025/04/09 (autoinst) Font definitions for TS1/Raleway-LF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-LF/regular/n' aliased to
-(Font)              `TS1/Raleway-LF/m/n' on input line 492.
+(Font)              `TS1/Raleway-LF/m/n' on input line 489.
 LaTeX Font Info:    Font shape `TS1/Raleway-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 492.
+(Font)              scaled to size 10.0pt on input line 489.
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 492--492
+Overfull \hbox (4.84172pt too wide) in alignment at lines 489--489
 [] 
  []
 
 [1
 
-{C:/Users/thanh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/MiKTeX/fonts/enc/dvips/raleway/a_ifnzwv.enc}{D:/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{D:/MiKTeX/fonts/enc/dvips/raleway/a_2drkug.enc} <./untitled.jpg>]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 521--521
+{C:/Users/thanh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/MiKTeX/fonts/enc/dvips/raleway/a_ifnzwv.enc}{D:/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{D:/MiKTeX/fonts/enc/dvips/raleway/a_2drkug.enc}]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 518--518
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 521--521
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
 
  []
 
 
-Overfull \hbox (4.96175pt too wide) in alignment at lines 521--521
+Overfull \hbox (4.96175pt too wide) in alignment at lines 518--518
 [] 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 521--521
+Overfull \hbox (4.84172pt too wide) in alignment at lines 518--518
 [] 
  []
 
-<QRScan.png, id=18, 1003.75pt x 1003.75pt>
+<QRScan.png, id=17, 1003.75pt x 1003.75pt>
 File: QRScan.png Graphic file (type png)
 <use QRScan.png>
-Package pdftex.def Info: QRScan.png  used on input line 524.
+Package pdftex.def Info: QRScan.png  used on input line 521.
 (pdftex.def)             Requested size: 119.2451pt x 119.23483pt.
 [2 <./QRScan.png>] (main.aux)
  ***********
@@ -988,17 +983,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25907 strings out of 467871
- 494322 string characters out of 5435212
- 953066 words of memory out of 5000000
- 54340 multiletter control sequences out of 15000+600000
+ 25900 strings out of 467871
+ 494198 string characters out of 5435212
+ 953065 words of memory out of 5000000
+ 54333 multiletter control sequences out of 15000+600000
  762291 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,104p,449b,750s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><D:/MiKTeX/fonts/type1/impallari/raleway/Raleway-Bold.pfb><D:/MiKTeX/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on main.pdf (2 pages, 83253 bytes).
+Output written on main.pdf (2 pages, 75844 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

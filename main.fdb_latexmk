@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1772897276.169 "d:/Hutech/CV/main.tex" "main.pdf" "main" 1772897277.55396 0
+["pdflatex"] 1772915459.60266 "d:/Hutech/CV/main.tex" "main.pdf" "main" 1772915460.61598 0
   "C:/Users/thanh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772867063 137087 664ba1db818a2af1b38c9c45714bbe04 ""
   "C:/Users/thanh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772867111 13316651 73c1563953ffc059742a168e907ce902 ""
   "D:/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463869852 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -175,11 +175,10 @@
   "D:/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "D:/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "QRScan.png" 1772895812 32030 6a0b42927fc45ae43bad25f9d6ba536f ""
-  "d:/Hutech/CV/main.tex" 1772897275 17711 6f82df986d2024b65476c3b5cdc4c223 ""
-  "main.aux" 1772897277 201 c5413892664b548a9b229d96fb27354e "pdflatex"
-  "main.out" 1772897277 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1772897275 17711 6f82df986d2024b65476c3b5cdc4c223 ""
-  "untitled.jpg" 1772841036 7815 af14037c613da0d88b76adeaa83b1b2a ""
+  "d:/Hutech/CV/main.tex" 1772915459 17922 1cd1277ddff763e6b69be1b3bd85fbe8 ""
+  "main.aux" 1772915460 201 c5413892664b548a9b229d96fb27354e "pdflatex"
+  "main.out" 1772915460 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1772915459 17922 1cd1277ddff763e6b69be1b3bd85fbe8 ""
   (generated)
   "main.aux"
   "main.log"
