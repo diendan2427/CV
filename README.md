@@ -18,4 +18,4 @@ Full-Stack Developer Intern candidate, open to internship and project collaborat
 
 ---
 
-Thanks to Ilya Rumyantsev for the original CV layout inspiration.
+All content and customizations in this CV are prepared by Nguyen Vo Chi Thanh.
