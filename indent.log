@@ -1,6 +1,6 @@
 INFO:  latexindent.pl version 3.24.7, 2025-08-15, a script to indent .tex files
        latexindent.pl lives here: D:/MiKTeX/scripts/latexindent/
-       Thu Mar 12 15:04:48 2026
+       Fri Mar 13 00:18:58 2026
        Filename: D:\Hutech\CV\main.tex
 INFO:  Processing switches:
        -s|--silent: Silent mode active (you have used either -s or --silent)
@@ -27,7 +27,9 @@ INFO:  Backup procedure (-w flag active):
        D:\Hutech\CV\main.bak1 already exists, incrementing by 1 (see maxNumberOfBackUps)
        D:\Hutech\CV\main.bak2 already exists, incrementing by 1 (see maxNumberOfBackUps)
        D:\Hutech\CV\main.bak3 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       Backing up D:\Hutech\CV\main.tex to D:\Hutech\CV\main.bak4...
+       D:\Hutech\CV\main.bak4 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\Hutech\CV\main.bak5 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       Backing up D:\Hutech\CV\main.tex to D:\Hutech\CV\main.bak6...
        D:\Hutech\CV\main.tex will be overwritten after indentation
 INFO:  Phase 1: searching for objects
 INFO:  Phase 2: finding surrounding indentation

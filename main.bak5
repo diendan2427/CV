@@ -372,7 +372,7 @@
 		%	META IMAGE
 		%----------------------------------------------------------------------------------------
 		\begin{center}
-			\includegraphics[width=0.98\linewidth,height=0.26\textheight,keepaspectratio]{picture}
+			\includegraphics[width=0.92\linewidth,height=0.23\textheight,keepaspectratio]{picture}
 		\end{center}
 
 		%---------------------------------------------------------------------------------------
