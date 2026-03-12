@@ -451,8 +451,8 @@
 		%----------------------------------------------------------------------------------------
 		\cvsection{ABOUT ME}
 
-		\cvtext{Fourth-year Software Engineering student with hands-on experience developing full-stack web applications using JavaScript, React, Node.js, and ASP.NET Core. Experienced in developing RESTful APIs and working with MongoDB and SQL Server.\\[4pt]
-			Seeking a Full-Stack Developer Internship to apply my skills and help build scalable, high-quality web applications.}
+\cvtext{Fourth-year Software Engineering student with hands-on experience developing full-stack web applications using JavaScript, React, Node.js, and ASP.NET Core. Experienced in developing RESTful APIs and working with MongoDB and SQL Server.\\[4pt]
+Seeking a Full-Stack Developer Internship to apply my skills and help build scalable, high-quality web applications.}
 
 		%---------------------------------------------------------------------------------------
 		%	PROJECT
@@ -483,8 +483,8 @@
 				\setlength{\parskip}{0pt}
 				\setlength{\parsep}{0pt}
 				\setlength{\topsep}{2pt}
-				\item Demo: hunterbug.vercel.app
-				\item GitHub: github.com/diendan2427/Deploy.git
+				\item Demo: https://hunterbug.vercel.app
+				\item GitHub: https://github.com/diendan2427/Deploy.git
 			}}
 		{}
 
@@ -513,7 +513,7 @@
 				\setlength{\parskip}{0pt}
 				\setlength{\parsep}{0pt}
 				\setlength{\topsep}{2pt}
-				\item GitHub: github.com/diendan2427/DoAnCoSo.git
+				\item GitHub: https://github.com/diendan2427/DoAnCoSo.git
 			}}
 		{}
 

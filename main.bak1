@@ -371,9 +371,9 @@
 		%---------------------------------------------------------------------------------------
 		%	META IMAGE
 		%----------------------------------------------------------------------------------------
-		\begin{center}
-			\includegraphics[width=0.92\linewidth,height=0.23\textheight,keepaspectratio]{picture}
-		\end{center}
+\begin{center}
+\includegraphics[width=0.92\linewidth,height=0.23\textheight,keepaspectratio]{picture}
+\end{center}
 
 		%---------------------------------------------------------------------------------------
 		%	CONTACT
@@ -410,7 +410,7 @@
 
 		\cvmetaevent
 		{07/2022 - 07/2026}
-		{}
+		{Engineer in Information Technology}
 		{Ho Chi Minh City University of Technology (HUTECH)}
 		{\textbf{GPA: 3.15}}
 
@@ -452,7 +452,7 @@
 		\cvsection{ABOUT ME}
 
 		\cvtext{Fourth-year Software Engineering student with hands-on experience developing full-stack web applications using JavaScript, React, Node.js, and ASP.NET Core. Experienced in developing RESTful APIs and working with MongoDB and SQL Server.\\[4pt]
-			Seeking a Full-Stack Developer Internship to apply my skills and help build scalable, high-quality web applications.}
+			Seeking a Full-Stack Developer Internship to apply technical skills, continuously improve my development abilities, and support the company in building scalable and high-quality web applications.}
 
 		%---------------------------------------------------------------------------------------
 		%	PROJECT
@@ -483,8 +483,8 @@
 				\setlength{\parskip}{0pt}
 				\setlength{\parsep}{0pt}
 				\setlength{\topsep}{2pt}
-				\item Demo: hunterbug.vercel.app
-				\item GitHub: github.com/diendan2427/Deploy.git
+				\item Demo: https://hunterbug.vercel.app
+				\item GitHub: https://github.com/diendan2427/Deploy.git
 			}}
 		{}
 
@@ -513,7 +513,7 @@
 				\setlength{\parskip}{0pt}
 				\setlength{\parsep}{0pt}
 				\setlength{\topsep}{2pt}
-				\item GitHub: github.com/diendan2427/DoAnCoSo.git
+				\item GitHub: https://github.com/diendan2427/DoAnCoSo.git
 			}}
 		{}
 

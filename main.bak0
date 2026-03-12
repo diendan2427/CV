@@ -367,158 +367,158 @@
 \setlength{\columnseprule}{4pt}
 \colseprulecolor{lightcol}
 \begin{paracol}{2}
-	\begin{leftcolumn}
-		%---------------------------------------------------------------------------------------
-		%	META IMAGE
-		%----------------------------------------------------------------------------------------
-		\begin{center}
-			\includegraphics[width=0.92\linewidth,height=0.23\textheight,keepaspectratio]{picture}
-		\end{center}
+\begin{leftcolumn}
+%---------------------------------------------------------------------------------------
+%	META IMAGE
+%----------------------------------------------------------------------------------------
+\begin{center}
+\fcolorbox{darkcol}{white}{\includegraphics[width=0.92\linewidth,height=0.23\textheight,keepaspectratio]{picture}}
+\end{center}
 
-		%---------------------------------------------------------------------------------------
-		%	CONTACT
-		%----------------------------------------------------------------------------------------
-		\cvsection{CONTACT}
+%---------------------------------------------------------------------------------------
+%	CONTACT
+%----------------------------------------------------------------------------------------
+\cvsection{CONTACT}
 
-		\icontext{CalendarO}{12}{04/01/2004}{black}\\[6pt]
-		\icontext{MapMarker}{12}{5 Street, Linh Chieu Ward,\\Thu Duc City, Ho Chi Minh City}{black}\\[6pt]
-		\icontext{MobilePhone}{12}{0768848878}{black}\\[6pt]
-		\iconemail{Envelope}{12}{{\small thanhnguyen848878@gmail.com}}{thanhnguyen848878@gmail.com}{black}\\[6pt]
-		\iconhref{Github}{12}{github.com/diendan2427}{https://github.com/diendan2427}{black}\\[6pt]
+\icontext{CalendarO}{12}{04/01/2004}{black}\\[6pt]
+\icontext{MapMarker}{12}{5 Street, Linh Chieu Ward,\\Thu Duc City, Ho Chi Minh City}{black}\\[6pt]
+\icontext{MobilePhone}{12}{0768848878}{black}\\[6pt]
+\iconemail{Envelope}{12}{{\small thanhnguyen848878@gmail.com}}{thanhnguyen848878@gmail.com}{black}\\[6pt]
+\iconhref{Github}{12}{github.com/diendan2427}{https://github.com/diendan2427}{black}\\[6pt]
 
-		\vfill\null
-		%---------------------------------------------------------------------------------------
-		%	META SKILLS
-		%----------------------------------------------------------------------------------------
-		\cvsection{SKILLS}
+\vfill\null
+%---------------------------------------------------------------------------------------
+%	META SKILLS
+%----------------------------------------------------------------------------------------
+\cvsection{SKILLS}
 
-		\cvtext{
-			\textbf{Programming Languages:} JavaScript, C\#\\[4pt]
-			\textbf{Frontend:} React, HTML, CSS\\[4pt]
-			\textbf{Backend:} Node.js, Express.js, ASP.NET Core\\[4pt]
-			\textbf{Database:} MongoDB, SQL Server\\[4pt]
-			\textbf{Tools \& Technologies:} Git, GitHub, Docker, Postman, Vite
-		}
+\cvtext{
+\textbf{Programming Languages:} JavaScript, C\#\\[4pt]
+\textbf{Frontend:} React, HTML, CSS\\[4pt]
+\textbf{Backend:} Node.js, Express.js, ASP.NET Core\\[4pt]
+\textbf{Database:} MongoDB, SQL Server\\[4pt]
+\textbf{Tools \& Technologies:} Git, GitHub, Docker, Postman, Vite
+}
 
-		\vspace{2pt}
+\vspace{2pt}
 
-		%---------------------------------------------------------------------------------------
-		%	EDUCATION
-		%----------------------------------------------------------------------------------------
-		\cvsection{EDUCATION}
-		\vspace{-8pt}
+%---------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\cvsection{EDUCATION}
+\vspace{-8pt}
 
-		\cvmetaevent
-		{07/2022 - 07/2026}
-		{}
-		{Ho Chi Minh City University of Technology (HUTECH)}
-		{\textbf{GPA: 3.15}}
+\cvmetaevent
+{07/2022 - 07/2026}
+{Engineer in Information Technology}
+{Ho Chi Minh City University of Technology (HUTECH)}
+{\textbf{GPA: 3.15}}
 
-		\vspace{-10pt}
+\vspace{-10pt}
 
-		%---------------------------------------------------------------------------------------
-		%	CERTIFICATION
-		%----------------------------------------------------------------------------------------
-		\cvsection{CERTIFICATIONS}
-		\vspace{-12pt}
+%---------------------------------------------------------------------------------------
+%	CERTIFICATION
+%----------------------------------------------------------------------------------------
+\cvsection{CERTIFICATIONS}
+\vspace{-12pt}
 
-		\cvcert
-		{HUTECH's .NET Cracking Challenges 2024}
-		{06/2024}
+\cvcert
+{HUTECH's .NET Cracking Challenges 2024}
+{06/2024}
 
-		\vspace{-18pt}
+\vspace{-18pt}
 
-		\cvcert
-		{CEF B1}
-		{19/08/2025}
+\cvcert
+{CEF B1}
+{19/08/2025}
 
-	\end{leftcolumn}
-	\begin{rightcolumn}
-		%---------------------------------------------------------------------------------------
-		%	TITLE  HEADER
-		%----------------------------------------------------------------------------------------
-		\fcolorbox{white}{darkcol}{\begin{minipage}[c][3.5cm][c]{1\mpwidth}
-				\begin {center}
-				\fontsize{24}{29}\selectfont{ \textbf{ \textcolor{white}{ NGUYEN VO CHI THANH } } } \\[6pt]
-				\fontsize{12.5}{14}\selectfont{ \textbf{ \textcolor{white}{Intern Developer} } } \\[4pt]
-				\textcolor{white}{ \rule{0.1\textwidth}{1.25pt} } \\[4pt]
-				\end {center}
-			\end{minipage}} \\[14pt]
-		\vspace{-12pt}
+\end{leftcolumn}
+\begin{rightcolumn}
+%---------------------------------------------------------------------------------------
+%	TITLE  HEADER
+%----------------------------------------------------------------------------------------
+\fcolorbox{white}{darkcol}{\begin{minipage}[c][3.5cm][c]{1\mpwidth}
+	\begin {center}
+		\fontsize{24}{29}\selectfont{ \textbf{ \textcolor{white}{ NGUYEN VO CHI THANH } } } \\[6pt]
+		\fontsize{12.5}{14}\selectfont{ \textbf{ \textcolor{white}{Intern Developer} } } \\[4pt]
+		\textcolor{white}{ \rule{0.1\textwidth}{1.25pt} } \\[4pt]
+	\end {center}
+\end{minipage}} \\[14pt]
+\vspace{-12pt}
 
-		%---------------------------------------------------------------------------------------
-		%	ABOUT ME
-		%----------------------------------------------------------------------------------------
-		\cvsection{ABOUT ME}
+%---------------------------------------------------------------------------------------
+%	ABOUT ME
+%----------------------------------------------------------------------------------------
+\cvsection{ABOUT ME}
 
-		\cvtext{Fourth-year Software Engineering student with hands-on experience developing full-stack web applications using JavaScript, React, Node.js, and ASP.NET Core. Experienced in developing RESTful APIs and working with MongoDB and SQL Server.\\[4pt]
-			Seeking a Full-Stack Developer Internship to apply my skills and help build scalable, high-quality web applications.}
+\cvtext{Fourth-year Software Engineering student with hands-on experience developing full-stack web applications using JavaScript, React, Node.js, and ASP.NET Core. Experienced in developing RESTful APIs and working with MongoDB and SQL Server.\\[4pt]
+Seeking a Full-Stack Developer Internship to apply technical skills, continuously improve my development abilities, and support the company in building scalable and high-quality web applications.}
 
-		%---------------------------------------------------------------------------------------
-		%	PROJECT
-		%----------------------------------------------------------------------------------------
-		\cvsection{PROJECT}
+%---------------------------------------------------------------------------------------
+%	PROJECT
+%----------------------------------------------------------------------------------------
+\cvsection{PROJECT}
 
-		\cvevent
-		{08/2025 - 12/2025}
-		{BugHunter – Web-Based Programming Learning Platform}
-		{}
-		{Role: Team Leader (2 Members)}
-		{\cvlist{
-				\setlength{\itemsep}{3pt}
-				\setlength{\parskip}{1pt}
-				\setlength{\parsep}{0pt}
-				\setlength{\topsep}{2pt}
-				\item Led a 2-member team to design and develop a \textbf{full-stack web application} focused on bug-fixing programming challenges
-				\item Built a real-time coding environment using \textbf{Monaco Editor} and integrated \textbf{Judge0 API} for multi-language code execution
-				\item Implemented competitive PvP coding matches using \textbf{WebSocket} for real-time interaction
-				\item Developed secure authentication using \textbf{JWT} and \textbf{bcrypt}, and designed \textbf{RESTful APIs} with \textbf{Express.js}
-				\item Integrated \textbf{AI-based error analysis} and chatbot mentor to assist users in debugging and learning
-				\item Deployed the system using \textbf{Docker}, with frontend on \textbf{Vercel} and backend on \textbf{Railway}
-				\item Designed scalable \textbf{MongoDB} database schemas for users, challenges, and PvP match data
-				\item Optimized real-time synchronization for multiplayer coding matches
-			}}
-		{\cvlist {
-				\setlength{\itemsep}{2pt}
-				\setlength{\parskip}{0pt}
-				\setlength{\parsep}{0pt}
-				\setlength{\topsep}{2pt}
-				\item Demo: hunterbug.vercel.app
-				\item GitHub: github.com/diendan2427/Deploy.git
-			}}
-		{}
+\cvevent
+	{08/2025 - 12/2025}
+	{BugHunter – Web-Based Programming Learning Platform}
+	{}
+{Role: Team Leader (2 Members)}
+	{\cvlist{
+		\setlength{\itemsep}{3pt}
+		\setlength{\parskip}{1pt}
+		\setlength{\parsep}{0pt}
+		\setlength{\topsep}{2pt}
+		\item Led a 2-member team to design and develop a \textbf{full-stack web application} focused on bug-fixing programming challenges
+		\item Built a real-time coding environment using \textbf{Monaco Editor} and integrated \textbf{Judge0 API} for multi-language code execution
+		\item Implemented competitive PvP coding matches using \textbf{WebSocket} for real-time interaction
+		\item Developed secure authentication using \textbf{JWT} and \textbf{bcrypt}, and designed \textbf{RESTful APIs} with \textbf{Express.js}
+		\item Integrated \textbf{AI-based error analysis} and chatbot mentor to assist users in debugging and learning
+		\item Deployed the system using \textbf{Docker}, with frontend on \textbf{Vercel} and backend on \textbf{Railway}
+		\item Designed scalable \textbf{MongoDB} database schemas for users, challenges, and PvP match data
+		\item Optimized real-time synchronization for multiplayer coding matches
+	}}
+	{\cvlist {
+		\setlength{\itemsep}{2pt}
+		\setlength{\parskip}{0pt}
+		\setlength{\parsep}{0pt}
+		\setlength{\topsep}{2pt}
+		\item Demo: https://hunterbug.vercel.app
+		\item GitHub: https://github.com/diendan2427/Deploy.git
+	}}
+	{}
 
-		\newpage
+\newpage
 
-		\cvevent
-		{10/03/2025 – 25/05/2025}
-		{GiftMate - E-commerce Web Application}
-		{}
-		{Role: Team Member (4 Members)}
-		{\cvlist{
-				\setlength{\itemsep}{3pt}
-				\setlength{\parskip}{1pt}
-				\setlength{\parsep}{0pt}
-				\setlength{\topsep}{2pt}
-				\item Built a multi-role \textbf{E-commerce features} platform with \textbf{ASP.NET Core} \textbf{MVC}
-				\item Implemented \textbf{Authentication / Authorization} with ASP.NET Core \textbf{Identity}
-				\item Developed product, brand, and category modules using \textbf{Entity Framework} Core repositories
-				\item Built cart, checkout, order creation, and confirmation email flow
-				\item Implemented \textbf{Payment integration} with MoMo for online checkout
-				\item Added favorites, feedback/rating, and important-date reminders
-				\item Designed \textbf{SQL Server} schema for products, orders, users, and staff applications
-			}}
-		{\cvlist {
-				\setlength{\itemsep}{2pt}
-				\setlength{\parskip}{0pt}
-				\setlength{\parsep}{0pt}
-				\setlength{\topsep}{2pt}
-				\item GitHub: github.com/diendan2427/DoAnCoSo.git
-			}}
-		{}
+\cvevent
+	{10/03/2025 – 25/05/2025}
+	{GiftMate - E-commerce Web Application}
+	{}
+	{Role: Team Member (4 Members)}
+	{\cvlist{
+		\setlength{\itemsep}{3pt}
+		\setlength{\parskip}{1pt}
+		\setlength{\parsep}{0pt}
+		\setlength{\topsep}{2pt}
+		\item Built a multi-role \textbf{E-commerce features} platform with \textbf{ASP.NET Core} \textbf{MVC}
+		\item Implemented \textbf{Authentication / Authorization} with ASP.NET Core \textbf{Identity}
+		\item Developed product, brand, and category modules using \textbf{Entity Framework} Core repositories
+		\item Built cart, checkout, order creation, and confirmation email flow
+		\item Implemented \textbf{Payment integration} with MoMo for online checkout
+		\item Added favorites, feedback/rating, and important-date reminders
+		\item Designed \textbf{SQL Server} schema for products, orders, users, and staff applications
+	}}
+	{\cvlist {
+		\setlength{\itemsep}{2pt}
+		\setlength{\parskip}{0pt}
+		\setlength{\parsep}{0pt}
+		\setlength{\topsep}{2pt}
+		\item GitHub: https://github.com/diendan2427/DoAnCoSo.git
+	}}
+	{}
 
-		\vfill
-		\cvqrcode{0.35}
-	\end{rightcolumn}
+\vfill
+\cvqrcode{0.35}
+\end{rightcolumn}
 \end{paracol}
 \end{document}
