@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1773851586.29357 "main.tex" "main.pdf" "main" 1773851587.28804 0
+["pdflatex"] 1773852250.60479 "main.tex" "main.pdf" "main" 1773852263.65406 0
   "C:/Users/thanh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772867063.17071 137087 664ba1db818a2af1b38c9c45714bbe04 ""
   "C:/Users/thanh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772867111.44753 13316651 aa1350b3801df5be47b54d40cb69eeb6 ""
   "D:/MiKTeX/fonts/enc/dvips/raleway/a_2drkug.enc" 1744192451 3156 6f0080837fa2939c5a70a31412652777 ""
@@ -59,6 +59,10 @@
   "D:/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1761202581 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
   "D:/MiKTeX/tex/latex/ly1/ly1enc.def" 1654972640 12104 e872d1756487ac02d8da3f958f4e1d25 ""
   "D:/MiKTeX/tex/latex/ly1/ly1ptm.fd" 1654972640 1053 1946f431f0fed8f7fd7d097237037354 ""
+  "D:/MiKTeX/tex/latex/microtype/microtype-pdftex.def" 1772370317 49656 1c61dbb6f95479ba3d6c0033b53590e2 ""
+  "D:/MiKTeX/tex/latex/microtype/microtype.cfg" 1772370317 27642 f0cea12315babf4d40608f4eeb5c8458 ""
+  "D:/MiKTeX/tex/latex/microtype/microtype.sty" 1772370317 102845 043c56602c7d94c8a716319df1af5479 ""
+  "D:/MiKTeX/tex/latex/microtype/mt-cmr.cfg" 1772370317 22906 2122f73c0e7dc828f24240c2422dfe25 ""
   "D:/MiKTeX/tex/latex/mweights/mweights.sty" 1570501985 4953 67f29a12ea26221103fce6bae3433e60 ""
   "D:/MiKTeX/tex/latex/raleway/raleway.sty" 1744192438 6177 f30649f3b5dbf2575690f4b6c19f2950 ""
   "D:/MiKTeX/tex/latex/raleway/t1raleway-lf.fd" 1744192449 4201 c9c1fd5b58f96c60c8b1d58758840f80 ""
@@ -70,9 +74,10 @@
   "D:/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "D:/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "D:/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "main.aux" 1773851587.08828 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "main.out" 1773851587.02407 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1773851579.44558 6289 7571d0b34397448dc17c9a6546ebe5a8 ""
+  "D:/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
+  "main.aux" 1773852263.36875 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "main.out" 1773852263.20451 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1773852243.82753 6368 4cee85054de733cb4f82c50b705aff33 ""
   (generated)
   "main.aux"
   "main.log"

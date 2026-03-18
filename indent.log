@@ -1,6 +1,6 @@
 INFO:  latexindent.pl version 3.24.7, 2025-08-15, a script to indent .tex files
        latexindent.pl lives here: D:/MiKTeX/scripts/latexindent/
-       Wed Mar 18 23:32:59 2026
+       Wed Mar 18 23:44:03 2026
        Filename: D:\Hutech\CV\main.tex
 INFO:  Processing switches:
        -s|--silent: Silent mode active (you have used either -s or --silent)
@@ -23,42 +23,7 @@ INFO:  YAML reading settings
        latexindent.pl didn't find indentconfig.yaml or .indentconfig.yaml
        see all possible locations: https://latexindentpl.readthedocs.io/en/latest/sec-appendices.html#indentconfig-options)
 INFO:  Backup procedure (-w flag active):
-       D:\Hutech\CV\main.bak0 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak1 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak2 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak3 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak4 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak5 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak6 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak7 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak8 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak9 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak10 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak11 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak12 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak13 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak14 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak15 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak16 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak17 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak18 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak19 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak20 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak21 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak22 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak23 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak24 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak25 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak26 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak27 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak28 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak29 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak30 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak31 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak32 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak33 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       D:\Hutech\CV\main.bak34 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       Backing up D:\Hutech\CV\main.tex to D:\Hutech\CV\main.bak35...
+       Backing up D:\Hutech\CV\main.tex to D:\Hutech\CV\main.bak0...
        D:\Hutech\CV\main.tex will be overwritten after indentation
 INFO:  Phase 1: searching for objects
 INFO:  Phase 2: finding surrounding indentation

@@ -96,6 +96,16 @@ INPUT D:\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT D:\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT D:\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT D:\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT D:\MiKTeX\tex\latex\xurl\xurl.sty
+INPUT D:\MiKTeX\tex\latex\xurl\xurl.sty
+INPUT D:\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT D:\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT D:\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT D:\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT D:\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT D:\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT D:\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT D:\MiKTeX\tex\latex\microtype\microtype.cfg
 INPUT D:\MiKTeX\tex\latex\xcolor\xcolor.sty
 INPUT D:\MiKTeX\tex\latex\xcolor\xcolor.sty
 INPUT D:\MiKTeX\tex\latex\graphics-cfg\color.cfg
@@ -136,6 +146,9 @@ INPUT D:\MiKTeX\fonts\tfm\impallari\raleway\Raleway-Bold-lf-t1.tfm
 INPUT D:\MiKTeX\fonts\tfm\impallari\raleway\Raleway-Regular-lf-t1.tfm
 INPUT D:\MiKTeX\fonts\tfm\impallari\raleway\Raleway-Bold-lf-t1.tfm
 INPUT D:\MiKTeX\fonts\tfm\impallari\raleway\Raleway-Regular-lf-t1.tfm
+INPUT D:\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT D:\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT D:\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT D:\MiKTeX\fonts\tfm\impallari\raleway\Raleway-Bold-lf-t1.tfm
 INPUT D:\MiKTeX\tex\latex\raleway\ts1raleway-lf.fd
 INPUT D:\MiKTeX\tex\latex\raleway\ts1raleway-lf.fd
