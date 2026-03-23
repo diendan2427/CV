@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1773852250.60479 "main.tex" "main.pdf" "main" 1773852263.65406 0
-  "C:/Users/thanh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772867063.17071 137087 664ba1db818a2af1b38c9c45714bbe04 ""
-  "C:/Users/thanh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772867111.44753 13316651 aa1350b3801df5be47b54d40cb69eeb6 ""
+["pdflatex"] 1774231859.82318 "d:/Hutech/CV/main.tex" "main.pdf" "main" 1774231860.58594 0
+  "C:/Users/thanh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772867063 137087 664ba1db818a2af1b38c9c45714bbe04 ""
+  "C:/Users/thanh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772867111 13316651 73c1563953ffc059742a168e907ce902 ""
   "D:/MiKTeX/fonts/enc/dvips/raleway/a_2drkug.enc" 1744192451 3156 6f0080837fa2939c5a70a31412652777 ""
   "D:/MiKTeX/fonts/enc/dvips/raleway/a_ifnzwv.enc" 1744192452 2977 ec9fc561afd45e22ba1c5fc9e7b9c700 ""
   "D:/MiKTeX/fonts/tfm/impallari/raleway/Raleway-Bold-lf-t1--base.tfm" 1744192458 1812 b4f0a792c01f3a3e5cc73d3933eb4f1a ""
@@ -75,9 +75,10 @@
   "D:/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "D:/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "D:/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "main.aux" 1773852263.36875 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "main.out" 1773852263.20451 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1773852243.82753 6368 4cee85054de733cb4f82c50b705aff33 ""
+  "d:/Hutech/CV/main.tex" 1774231859 6410 0557a10f86a43856dec24b3311a5d387 ""
+  "main.aux" 1774231860 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "main.out" 1774231860 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1774231859 6410 0557a10f86a43856dec24b3311a5d387 ""
   (generated)
   "main.aux"
   "main.log"
