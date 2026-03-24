@@ -1,0 +1,26 @@
+# LaTeX auxiliary files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# Editor and local backup files
+*.bak
+*.bak*
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Project-specific local logs
+indent.log
