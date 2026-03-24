@@ -16,11 +16,19 @@ Full-Stack Developer Intern candidate, open to internship and project collaborat
 - Backend: Node.js, Express.js, ASP.NET Core
 - Database: MongoDB, SQL Server
 
-## CV Preview
+## CV Variants
 
-[![CV Preview](./cv-preview.jpg)](./main.pdf)
+### Full-Stack Developer Intern
 
-[Download CV PDF](./main.pdf)
+[![Full-Stack CV Preview](./cv-preview.jpg)](./main.pdf)
+
+[Download Full-Stack CV PDF](./main.pdf)
+
+### Backend Developer Intern
+
+[![Backend CV Preview](./backend-preview.jpg)](./backend.pdf)
+
+[Download Backend CV PDF](./backend.pdf)
 
 ---
 
