@@ -16,6 +16,12 @@ Full-Stack Developer Intern candidate, open to internship and project collaborat
 - Backend: Node.js, Express.js, ASP.NET Core
 - Database: MongoDB, SQL Server
 
+## CV Preview
+
+[![CV Preview](./cv-preview.jpg)](./main.pdf)
+
+[Download CV PDF](./main.pdf)
+
 ---
 
 All content and customizations in this CV are prepared by Nguyen Vo Chi Thanh.
