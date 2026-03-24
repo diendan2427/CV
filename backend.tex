@@ -1,0 +1,128 @@
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+% The MIT License (MIT)
+%
+% Copyright (c) 2019 Jan Kuster
+%
+% Permission is hereby granted, free of charge, to any person obtaining a copy
+% of this software and associated documentation files (the "Software"), to deal
+% in the Software without restriction, including without limitation the rights
+% to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+% copies of the Software, and to permit persons to whom the Software is
+% furnished to do so, subject to the following conditions:
+%
+% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+% IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+% FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+% AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+% LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+% OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+% THE SOFTWARE.
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+
+\documentclass[10pt,a4paper]{article}
+
+% Encoding and font
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[default,lining]{raleway}
+\renewcommand*\familydefault{\sfdefault}
+
+% Page setup
+\usepackage[a4paper,top=1.2cm,bottom=1.2cm,left=1.2cm,right=1.2cm]{geometry}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\pagestyle{empty}
+
+% Utilities
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xurl}
+\usepackage{microtype}
+\usepackage{xcolor}
+
+% Color palette inspired by template sample
+\definecolor{headingblue}{RGB}{39,83,114}
+\definecolor{linegray}{RGB}{149,163,174}
+\definecolor{textgray}{RGB}{65,65,65}
+
+% Global text settings
+\color{textgray}
+\setlist[itemize]{leftmargin=1.2em,itemsep=1pt,topsep=2pt,parsep=0pt,partopsep=0pt}
+\setlength{\emergencystretch}{3em}
+
+% Section title style
+\newcommand{\cvsection}[1]{
+  \vspace{8pt}
+  {\fontsize{14}{17}\selectfont\textbf{\textcolor{headingblue}{\MakeUppercase{#1}}}}\\[-3pt]
+  \textcolor{linegray}{\rule{\linewidth}{0.6pt}}\\[2pt]
+}
+
+\begin{document}
+
+% Header block (no image): centered name as requested
+\begin{center}
+	{\fontsize{31}{35}\selectfont\textbf{\textcolor{headingblue}{NGUYEN VO CHI THANH}}}\\[4pt]
+	{\fontsize{14}{16}\selectfont\textbf{BACKEND DEVELOPER INTERN}}\\[5pt]
+	{\fontsize{11.5}{13.5}\selectfont Phone: 0768848878 \;|\; Email: thanhnguyen848878@gmail.com}\\[1pt]
+	{\fontsize{11.5}{13.5}\selectfont GitHub: github.com/diendan2427}\\[1pt]
+	{\fontsize{11.5}{13.5}\selectfont Thu Duc City, Ho Chi Minh City, Vietnam}
+\end{center}
+
+\cvsection{Education}
+\vspace{1pt}
+\begin{tabularx}{\linewidth}{@{}X>{\raggedleft\arraybackslash}p{0.43\linewidth}@{}}
+	\textbf{Ho Chi Minh City University of Technology (HUTECH)} & Ho Chi Minh City, Vietnam    \\[2pt]
+	Bachelor of Information Technology \textbf{GPA:} 3.15/4.0   & Sep 2022 - Expected Jun 2026
+\end{tabularx}
+\vspace{-4pt}
+
+\cvsection{Skills}
+\textbf{Technical Skills}
+\begin{itemize}
+	\item \textbf{Backend}: Node.js, Express.js, ASP.NET Core
+	\item \textbf{Frontend}: React, HTML, CSS
+	\item \textbf{Languages}: JavaScript, C\#
+	\item \textbf{Databases}: MongoDB, SQL Server
+	\item \textbf{Tools}: Git, GitHub, Postman, Docker, Vite
+	\item \textbf{Concepts}: OOP, REST API, MVC
+	\item \textbf{Developer Tools}: Opencode, VO AI, Cursor, Codex
+\end{itemize}
+
+\cvsection{Certifications}
+HUTECH's .NET Cracking Challenges 2024 (06/2024)\\[2pt]
+CEFR B1 (19/08/2025)\\[2pt]
+Communication and Teamwork Skills Certificate - 2025 (08/2025)
+
+\cvsection{Career Objective}
+\textbf{Short-term}: Apply \textbf{Node.js}, \textbf{Express.js}, and \textbf{RESTful API} knowledge to contribute effectively as a \textbf{Backend Developer Intern}, focusing on reliable server-side features and practical database work with \textbf{MongoDB} and \textbf{SQL Server}.\\[5pt]
+\textbf{Mid-term}: Deepen expertise in \textbf{Node.js backend architecture}, improve \textbf{API design}, \textbf{database modeling}, and \textbf{code quality}, and become confident delivering maintainable backend services in collaborative product teams.
+
+\cvsection{Projects}
+\begin{tabularx}{\linewidth}{@{}X>{\raggedleft\arraybackslash}p{0.23\linewidth}@{}}
+	\textbf{BugHunter - Web-Based Programming Learning Platform (2 members)} \;|\; \textbf{Backend Developer} & 08/2025 - 12/2025
+\end{tabularx}
+\textbf{Live}: \href{https://hunterbug.vercel.app}{hunterbug.vercel.app}\\
+\textbf{Stack}: \textbf{React.js}, \textbf{Node.js}, \textbf{Express.js}, \textbf{MongoDB}, \textbf{Socket.IO}, \textbf{Monaco Editor}, \textbf{Judge0 API}, \textbf{JWT}, \textbf{Docker}\\[-8pt]
+\begin{itemize}[itemsep=2pt,topsep=3pt]
+	\item \textbf{Designed and developed} a \textbf{full-stack platform} focused on bug-fixing programming challenges.
+	\item Built a \textbf{real-time coding environment} with \textbf{Monaco Editor} and integrated \textbf{Judge0 API} for multi-language code execution.
+	\item Implemented competitive \textbf{PvP coding matches} using \textbf{WebSocket} and secure authentication with \textbf{JWT} and \textbf{bcrypt}.
+	\item Deployed with \textbf{Docker}, \textbf{Vercel} (frontend), and \textbf{Railway} (backend), and designed scalable \textbf{MongoDB Atlas-backed schemas}.
+\end{itemize}
+
+\vspace{1pt}
+
+\begin{tabularx}{\linewidth}{@{}X>{\raggedleft\arraybackslash}p{0.23\linewidth}@{}}
+	\textbf{GiftMate - E-commerce Web Application (4 members)} \;|\; \textbf{Backend Developer} & 03/2025 - 05/2025
+\end{tabularx}
+\textbf{GitHub}: \href{https://github.com/diendan2427/DoAnCoSo.git}{github.com/diendan2427/DoAnCoSo}\\[1pt]
+\textbf{Stack}: \textbf{ASP.NET Core MVC}, \textbf{Entity Framework Core}, \textbf{SQL Server}, \textbf{ASP.NET Identity}, \textbf{MoMo Payment API}\\[-8pt]
+\begin{itemize}[itemsep=2pt,topsep=3pt]
+	\item Built \textbf{multi-role e-commerce features} including \textbf{product listing}, \textbf{cart}, \textbf{checkout}, and \textbf{order workflows}.
+	\item Implemented \textbf{authentication/authorization} with \textbf{ASP.NET Core Identity} and \textbf{payment integration} with \textbf{MoMo}.
+	\item Developed modules for \textbf{products}, \textbf{brands}, and \textbf{categories} using \textbf{Entity Framework Core repositories}.
+\end{itemize}
+
+\end{document}
