@@ -11,6 +11,7 @@ Full-Stack Developer Intern candidate, open to internship and project collaborat
 
 ## Tech Stack
 
+- Mobile: Flutter, Dart
 - Languages: JavaScript, C#
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Express.js, ASP.NET Core
@@ -29,6 +30,15 @@ Full-Stack Developer Intern candidate, open to internship and project collaborat
 [![Backend CV Preview](./backend-preview.jpg)](./backend.pdf)
 
 [Download Backend CV PDF](./backend.pdf)
+
+### Mobile Developer Intern
+
+[![Mobile CV Preview](./mobile-preview.jpg)](./mobile.pdf)
+
+[Download Mobile CV PDF](./mobile.pdf)
+
+- Project GitHub: https://github.com/thanhhuyen1304/DevMobile
+- Project duration: 12/2025 - 2/2026
 
 ---
 
